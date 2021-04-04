@@ -1,11 +1,11 @@
-#include "cia2_swetaa_212218104169.h"
+#include "subiksha_212218104161cia2.h"
 
 #include <QApplication>
 
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-    Cia2_swetaa_212218104169 w;
+    subiksha_212218104161cia2 w;
     w.show();
     return a.exec();
 }
